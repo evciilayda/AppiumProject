@@ -1,0 +1,8 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Login ekranında e-posta adresini ve passwordu gir
+* "5" saniye_login
+* "com.ozdilek.ozdilekteyim:id/etEposta" e-posta alanına gir
+*"5" saniye_login
+*"com.ozdilek.ozdilekteyim:id/etPassword" password alanını gir

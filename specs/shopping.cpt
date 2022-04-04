@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Sayfa uzerinde Kategoriler butonunu kontrol et ve gorunur olursa tıkla
+*"5" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/nav_categories" Kategori elementinin sayfada gorunur oldugunu kontrol et

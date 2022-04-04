@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Ürün detay sayfasındaysan favori butonuna tıkla
+* "5" saniye_fav
+*"com.ozdilek.ozdilekteyim:id/imgFav" fav butonunun sayfada oldugunu kontrol et ve tıkla

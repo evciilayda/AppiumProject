@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Pantolon kategorisini seç
+*"5" saniye_pants
+*Xpath "(//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'])[14]" li elemente tıkla
